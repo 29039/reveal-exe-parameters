@@ -26,4 +26,5 @@ https://github.com/29039/reveal-exe-parameters/releases
 Credits:
 
 Made with AutoHotKey
+
 Icon from: https://www.iconfinder.com/icons/2191555/eye_look_no_hide_see_show_watch_icon (Which has it's own license)
